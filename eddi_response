@@ -1,0 +1,34 @@
+{
+   "eddi": [
+      {
+         "sno": nnnnnnnn,
+         "dat": "23-10-2021",
+         "tim": "11:46:38",
+         "ectt1": "Internal Load",
+         "ectt2": "None",
+         "ectt3": "None",
+         "bsm": 0,
+         "bst": 0,
+         "cmt": 254,
+         "dst": 1,
+         "div": 0,
+         "frq": 49.96,
+         "fwv": "3200S3.048",
+         "gen": 466,
+         "grd": 20,
+         "pri": 2,
+         "sta": 1,
+         "tz": 0,
+         "hpri": 1,
+         "hno": 1,
+         "ht1": "Tank 1",
+         "ht2": "Tank 2",
+         "r1a": 0,
+         "r2a": 0,
+         "rbc": 0,
+         "rbt": 3275,
+         "tp1": 127,
+         "tp2": 127
+      }
+   ]
+}
