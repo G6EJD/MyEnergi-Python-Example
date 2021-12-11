@@ -61,7 +61,7 @@ for item in response_data['zappi']:
 
 
 # Typical Zappi response
-#'{"zappi":[{"sno":15536718,"dat":"23-10-2021","tim":"08:28:08",
+#'{"zappi":[{"sno":nnnnnnnn,"dat":"23-10-2021","tim":"08:28:08",
 #  "ectp2":-2,"ectp3":3,"ectt1":"Internal Load","ectt2":"None","ectt3":"None",
 #  "bsm":0,"bst":0,"cmt":254,"dst":1,"div":0,"frq":49.94,"fwv":"3560S3.142",
 #  "gen":148,"grd":274,"pha":1,"pri":1,"sta":1,"tz":0,"vol":2406,"che":1.02,
