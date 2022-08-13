@@ -7,6 +7,7 @@ Windows PC
 2. The Python code here needs additional modules to be installed, so launch Windows Powershell(Admin)
 3. Type:
 4.     pip install requests
+  Repeat for other missing modules
 5.     pip install json
 6. Download the example Python code provided, to your desok top is easiest
 7. Right click and edit with Idle
